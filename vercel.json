@@ -3,7 +3,7 @@
       {
         "source": "/",
         "destination": "https://www.aiuper.com",
-        "permanent": true
+        "permanent": false
       }
     ]
   }
